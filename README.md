@@ -9,7 +9,7 @@ Email: john.doe@example.com | Phone: (123) 456-7890 | [GitHub](https://github.co
 
 - **Programming Languages:** Java, Python, JavaScript, TypeScript, C++
 - **Frameworks & Libraries:** Angular, React, Node.js, Spring Boot
-- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Databases:** MongoDB, Sybase, MySQL
 - **Cloud Platforms:** AWS, Azure, Docker, Kubernetes
 - **Version Control & Tools:** Git, Jenkins, Jira, CI/CD
 
