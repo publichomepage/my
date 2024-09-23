@@ -21,8 +21,7 @@ john.doe@example.com | Phone: (123) 456-7890 | [LinkedIn](https://linkedin.com/i
 **ABC Corp, New York, NY | Software Engineer** (May 2013 – Dec 2017) 
 - Developed and maintained RESTful APIs for e-commerce platforms serving over 1 million users.
 - Collaborated with cross-functional teams to design and implement responsive UI using React.
-- Improved application performance by 40% through optimization of database queries and caching
-- Enhanced security protocols, reducing system vulnerabilities by 20%.
+- Improved application performance by 40% through optimization of database queries and caching.
 
 ---
 ## 🎓 **Education**
