@@ -43,27 +43,8 @@ University of KIIT (2022)
 
 ---
 
-## 💡 **Projects**
-
-### **Smart Traffic Management System**
-- Developed an AI-based solution to predict traffic congestion and suggest alternate routes, reducing travel time by 15%.
-- Tech Stack: Python, TensorFlow, AWS, MongoDB
-
-### **Inventory Management Application**
-- Created a cloud-based inventory management application for small businesses, automating supply chain workflows.
-- Tech Stack: Java, Spring Boot, Angular, MySQL, Docker
-
----
-
 ## 🏆 **Certifications**
 
 - AWS Certified Solutions Architect - Professional
 - Oracle Certified Professional, Java SE
 - MongoDB Certified Developer
-
----
-
-## 🌱 **Interests**
-
-- Building and Managing a [platform](https://interviewdose.com) for creators and tutors
-- Artificial Intelligence, Writing, Painting, Story Telling
