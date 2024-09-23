@@ -32,7 +32,7 @@ Email: john.doe@example.com | Phone: (123) 456-7890 | [GitHub](https://github.co
 
 **Master of Science in Artificial Intelligence** University of XYZ (Expected 2025)
 
-**Bachelor of Science in Computer Science** University of KIIT (2022)
+**Bachelor of Science in Computer Science** University of ABC (2022)
 
 ---
 ## 🏆 **Certifications**
