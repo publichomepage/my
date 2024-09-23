@@ -12,7 +12,7 @@ Email: john.doe@example.com | Phone: (123) 456-7890 | [LinkedIn](https://linkedi
 - **Version Control & Tools:** Git, Jenkins, Jira, CI/CD
 
 ---
-## 💼 **Professional Experience**
+## **Professional Experience**
 
 #### Cisco Systems, San Jose, CA  
 **Senior Software Engineer** (Jan 2018 – Present)
@@ -31,8 +31,8 @@ Email: john.doe@example.com | Phone: (123) 456-7890 | [LinkedIn](https://linkedi
 ---
 ## 🎓 **Education**
 
-**Master of Science in Artificial Intelligence** University of XYZ (Expected 2025)
-**Bachelor of Science in Computer Science** University of ABC (2022)
+- **Master of Science in Artificial Intelligence** University of XYZ (Expected 2025)
+- **Bachelor of Science in Computer Science** University of ABC (2022)
 
 ---
 ## 🏆 **Certifications**
