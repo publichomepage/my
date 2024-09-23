@@ -6,7 +6,7 @@ john.doe@example.com | Ph: (123) 456-7890 | [linkedin.com/in/sandeepsahoo](https
 ## 🛠 **Technical Skills**
 
 - **Programming Languages:** Java, Python, JavaScript, TypeScript, C++
-- **Frameworks & Libraries:** Angular, React, Node.js, Spring Boot
+- **Frameworks & Libraries:** Spring Boot, React, NodeJs 
 - **Databases:** MongoDB, Sybase, MySQL
 - **Cloud Platforms:** AWS, Azure, Docker, Kubernetes
 
