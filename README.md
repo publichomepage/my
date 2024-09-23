@@ -1,6 +1,6 @@
 # John Doe
-**Senior Software Engineer** [linkedin.com/in/sandeepsahoo](https://linkedin.com/in/sandeepsahoo)  
-john.doe@example.com         | Ph: (123) 456-7890
+**Senior Software Engineer**   Ph: (123) 456-7890  
+john.doe@example.com         | [linkedin.com/in/sandeepsahoo](https://linkedin.com/in/sandeepsahoo)
 
 ---
 ## 🛠 **Technical Skills**
