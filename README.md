@@ -7,7 +7,7 @@
             <div class="col-xl-4 col-lg-5">
                 <div class="featured-text text-center text-lg-left">
                     <h4>Who is it designed for ?</h4>
-                    <p class="text-black-50 mb-0">Whether you're a professional, celebrity, entrepreneur, or social enthusiast, a public homepage is your gateway to the world. From personal passions to professional ventures, people are building and showcasing their projects with a public homepage!</p>
+                    <p class="text-black-50 mb-0">Whether you're a professional, celebrity, entrepreneur, or social enthusiast, a public homepage is your gateway to the world. From personal passions to professional ventures, people are building and showcasing their portfolios with a public homepage!</p>
                 </div>
             </div>
         </div>
