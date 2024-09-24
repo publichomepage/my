@@ -7,7 +7,7 @@
             <div class="col-xl-4 col-lg-5">
                 <div class="featured-text text-center text-lg-left">
                     <h4>Who is it designed for ?</h4>
-                    <p class="text-black-50 mb-0">It can be for professionals, celebrities, traders or social enthusiasts. Various social to professional projects are being built and published with a public homepage!</p>
+                    <p class="text-black-50 mb-0">Whether you're a professional, celebrity, entrepreneur, or social enthusiast, a public homepage is your gateway to the world. From personal passions to professional ventures, people are building and showcasing their projects with a public homepage!</p>
                 </div>
             </div>
         </div>
@@ -55,7 +55,7 @@
                     <!-- Email address input-->
                     <div class="row input-group-newsletter">
                         <div class="col"><input class="form-control" id="emailAddress" type="email" placeholder="Enter email address..." aria-label="Enter email address..." data-sb-validations="required,email" /></div>
-                        <div class="col-auto"><button class="btn btn-primary disabled" id="submitButton" type="Submit" onclick="sendMessage()">Notify Me!</button></div>
+                        <div class="col-auto"><button class="btn btn-primary disabled" id="submitButton" type="Submit" onclick="sendMessage()">Interested</button></div>
                     </div>
                     <div class="invalid-feedback mt-2" data-sb-feedback="emailAddress:required">An email is required.</div>
                     <div class="invalid-feedback mt-2" data-sb-feedback="emailAddress:email">Email is not valid.</div>
