@@ -19,7 +19,7 @@
                     <div class="d-flex h-100">
                         <div class="project-text w-100 my-auto text-center text-lg-left">
                             <h4 class="text-white">One Page for all</h4>
-                            <p class="mb-0 text-white-50">Your connections, videos, articles, any cart of crafts, all in here one page that users want to see.</p>
+                            <p class="mb-0 text-white-50">Your connections, videos, articles, any crafts of cart, all in here that users want to see.</p>
                             <hr class="d-none d-lg-block mb-0 ms-0" />
                         </div>
                     </div>
@@ -34,7 +34,7 @@
                     <div class="d-flex h-100">
                         <div class="project-text w-100 my-auto text-center text-lg-right">
                             <h4 class="text-white">Effortless</h4>
-                            <p class="mb-0 text-white-50">It's simple to build, integrate and manage ! unlike expensive, complex and  time consuming platforms!</p>
+                            <p class="mb-0 text-white-50">It's simple to build, integrate and manage ! unlike any other expensive, complex and time consuming platforms!</p>
                             <hr class="d-none d-lg-block mb-0 me-0" />
                         </div>
                     </div>
