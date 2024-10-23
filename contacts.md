@@ -2,7 +2,7 @@
 - https://www.youtube.com/@yoursandeep
 - [Join Chat](https://discord.gg/hEw7kbwu)
 - https://www.linkedin.com/in/sandeepsahoo
-- [Creators / Bloggers / Engineers]([https://interviewdose.com/contacts)
+- [Creators / Bloggers / Engineers](https://interviewdose.com/contacts)
 
 **Need help in building your homepage ?**
 
