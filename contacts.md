@@ -1,6 +1,5 @@
 ## My Contacts
-- https://www.youtube.com
-- https://www.facebook.com
+- https://www.youtube.com/@yoursandeep
 - [Join Chat](https://discord.gg/hEw7kbwu)
 - https://www.linkedin.com/in/sandeepsahoo
 - [Bloggers / Publishers](https://topmate.io/ersandeep/644263)
