@@ -2,7 +2,7 @@
 - https://www.youtube.com/@yoursandeep
 - [Join Chat](https://discord.gg/hEw7kbwu)
 - https://www.linkedin.com/in/sandeepsahoo
-- [Bloggers / Publishers](https://topmate.io/ersandeep/644263)
+- [Creators / Bloggers / Engineers](https://topmate.io/ersandeep/644263)
 
 **Need help in building your homepage ?**
 
