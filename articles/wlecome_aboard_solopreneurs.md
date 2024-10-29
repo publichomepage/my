@@ -1,1 +1,1 @@
-# Wecome aboard solopreneurs.
+# Hello and Welcome, Solopreneurs!
