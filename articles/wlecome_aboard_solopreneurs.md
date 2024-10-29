@@ -1,1 +1,1 @@
-# Wecome to publichome.page solopreneurs.
+# Wecome aboard solopreneurs.
