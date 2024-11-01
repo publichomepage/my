@@ -1,3 +1,4 @@
 # Hello and Welcome, Solopreneurs!
 
-Stay tuned! we are building something cool to help you add wings to your products.
+We are building cool tools to help you add wings to your products and services.  
+Come Let us know how can we help ?
