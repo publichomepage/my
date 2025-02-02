@@ -1,7 +1,7 @@
 ## My Contacts
 - https://www.youtube.com/@yoursandeep
 - [Join Chat](https://discord.gg/hEw7kbwu)
-- http://publichome.page/discuss
+- http://publichome.page/roadmap
 - https://www.linkedin.com/in/sandeepsahoo
 - [Creators / Bloggers / Engineers](https://interviewdose.com/contacts)
 
