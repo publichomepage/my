@@ -2,7 +2,7 @@
 
 We are building cool tools to help you add wings to your products and services. 
 
-## Some example sites that are build 
+## Awesome Example Sites Built & Live!
 - [A John Doe's simple resume](http://publichome.page/simpleresume)
 - [A Writer's personal page](http://publichome.page/ramasahoo)
 - [An Online teaching platform](http://publichome.page/nritutor)
