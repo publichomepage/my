@@ -2,7 +2,7 @@
 - [What's new ?](https://publichome.page/roadmap)
 - [Creators / Bloggers / Engineers](https://interviewdose.com/contacts)
 - https://www.linkedin.com/in/sandeepsahoo
-- [Join Chat](https://discord.gg/hEw7kbwu)
+- [Let's Talk](tel:+17816275377)
 - [DabMeUp](self:subscribe,whatsapp:true,instagram:1trade)
 
 **Need help in building your publichome page ?**
