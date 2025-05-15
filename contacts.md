@@ -2,7 +2,7 @@
 - [What's new ?](https://publichome.page/roadmap)
 - [Creators / Bloggers / Engineers](https://interviewdose.com/contacts)
 - [📞 LetsTalk](tel:+17816275377)
-- [DabMeUp](self:subscribe,whatsapp:true,instagram:1trade)
+- [DabMeUp](self:subscribe, whatsapp:subscribe)
 
 **Need help in building your publichome page ?**
 
