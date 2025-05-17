@@ -3,7 +3,7 @@
 - [Creators / Bloggers / Engineers](https://interviewdose.com/contacts)
 - [📞 LetsTalk](tel:+17816275377)
 - [DabMeUp](self:subscribe,whatsapp:subscribe)
-> Subscribe to receive my latest researched insights and occasional personal messages—straight from me to you. **Dab Me Up** ✋🤜 and stay informed and inspired!
+> Subscribe to receive our latest features, improvements and occasional personal messages—straight from us to you. **Dab Me Up** ✋🤜 to stay informed, inspired and support our work!
 
 **Need help in building your publichome page ?**
 
