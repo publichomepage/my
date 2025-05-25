@@ -32,9 +32,9 @@
            alt="Sample Image" 
            class="img-fluid rounded">
     </div>
-    <div class="col-md-6 text-center">
-      <h4 class="text-success">One Page for all</h4>
-      <p>Your articles, videos and services that you cherish with your tribe! Create and share everything from here.</p>
+    <div class="col-md-6 text-center ">
+      <h4 class="text-success">All You Need Is One SinglePage!</h4>
+      <p>Your articles, videos and services that you cherish with your tribe! Create and share everything from a powerful ✨<i class="text-warning">publichome.page</i></p>
     </div>
   </div>
 
@@ -42,7 +42,7 @@
 <div class="row align-items-center">
   <div class="col text-center">
     <h4 class="text-success">Effortless</h4>
-    <p>It's simple to build! Easy to maintain and Effortless to start! With a little dabbling there are millions of possibilities from Solopreneurship to Entrepreneurship !</p>
+    <p>It's simple to build, Easy to maintain and Effortless to start! With a little dabbling, there are millions of possibilities from Solopreneurship to Entrepreneurship !</p>
     <a href="/dabble" class="btn btn-warning px-4">Dabble</a>
   </div>
   <div class="col text-center">
