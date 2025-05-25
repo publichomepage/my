@@ -48,7 +48,7 @@
   <div class="col text-center">
     <img src="https://cdn.jsdelivr.net/gh/publichomepage/my@main/assets/happy-news.png" 
          alt="Sample Image" 
-         class="img-fluid" style="max-width: 400px;">
+         class="img-fluid rounded border border-1 border-warning" style="max-width: 400px;">
   </div>
 </div>
 </div>
