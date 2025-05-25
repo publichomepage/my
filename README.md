@@ -12,12 +12,12 @@
       <div class="carousel-inner rounded" style="max-height: 400px; margin: 0 auto;">
         <div class="carousel-item active">
           <img src="https://cdn.jsdelivr.net/gh/publichomepage/my@main/assets/influencer_1.png" 
-               class="d-block w-100 img-fluid" 
+               class="d-block w-100 img-fluid rounded border border-1 border-success" 
                alt="Influencer Image 1">
         </div>
         <div class="carousel-item">
           <img src="https://cdn.jsdelivr.net/gh/publichomepage/my@main/assets/video-influencer_2.png" 
-               class="d-block w-100 img-fluid" 
+               class="d-block w-100 img-fluid rounded border border-1 border-success" 
                alt="Influencer Image 2">
         </div>
       </div>
@@ -30,7 +30,8 @@
     <div class="col-md-6 text-center">
       <img src="https://cdn.jsdelivr.net/gh/publichomepage/my@main/assets/designer.png" 
            alt="Sample Image" 
-           class="img-fluid rounded">
+           class="img-fluid rounded"
+           style="max-width: 300px;">
     </div>
     <div class="col-md-6 text-center">
       <h4>One Page for all</h4>
@@ -46,9 +47,7 @@
     <a href="/dabble" class="btn btn-warning px-4">Dabble</a>
   </div>
   <div class="col text-center">
-    <img src="https://cdn.jsdelivr.net/gh/publichomepage/my@main/assets/happy-news.png" 
-         alt="Sample Image" 
-         class="img-fluid rounded border border-1 border-warning" style="max-width: 400px;">
+    <img src="https://cdn.jsdelivr.net/gh/publichomepage/my@main/assets/happy-news.png" class="img-fluid rounded border border-1 border-success" alt="Sample Image">
   </div>
 </div>
 </div>
