@@ -1,3 +1,21 @@
+<hr>
+<div class="row justify-content-center mb-4">
+  <div class="col-12 text-center">
+    <h2 class="display-6">Power of a Single Page</h2>
+<hr>
+  </div>
+</div>
+
+<div class="row justify-content-center">
+  <div class="col-12 col-md-10 col-lg-8">
+    <div class="ratio ratio-16x9">
+      <iframe src="https://www.youtube.com/embed/LeXSrEMXvQk" 
+              allowfullscreen
+              class="rounded shadow-sm"></iframe>
+    </div>
+  </div>
+</div>
+<hr>
 <div class="container my-5">
 <!-- Row 1 -->
   <!-- Row 1 with Image Slideshow -->
