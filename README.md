@@ -9,7 +9,7 @@
   </div>
   <div class="col-md-6 text-center">
     <div id="simpleCarousel" class="carousel slide" data-bs-ride="carousel">
-      <div class="carousel-inner rounded">
+      <div class="carousel-inner rounded" style="max-height: 400px; margin: 0 auto;">
         <div class="carousel-item active">
           <img src="https://cdn.jsdelivr.net/gh/publichomepage/my@main/assets/influencer_1.png" 
                class="d-block w-100 img-fluid" 
