@@ -60,7 +60,7 @@
 <div class="row align-items-center">
   <div class="col text-center">
     <h4 class="text-success">Effortless</h4>
-    <p>It's simple to build, Easy to maintain and Effortless to start! With a little dabbling, there are millions of possibilities from Solopreneurship to Entrepreneurship !</p>
+    <p>It's simple to build, Easy to maintain and Effortless to start! With a little dabbling, there are millions of possibilities from Solopreneurship to Entrepreneurship&nbsp;!</p>
     <a href="/dabble" class="btn btn-warning px-4">Dabble</a>
   </div>
   <div class="col text-center">
