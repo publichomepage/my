@@ -9,7 +9,7 @@
   </div>
   <div class="col-md-6 text-center">
     <div id="simpleCarousel" class="carousel slide" data-bs-ride="carousel">
-      <div class="carousel-inner rounded" style="max-width: 300px; margin: 0 auto;">
+      <div class="carousel-inner rounded">
         <div class="carousel-item active">
           <img src="https://cdn.jsdelivr.net/gh/publichomepage/my@main/assets/influencer_1.png" 
                class="d-block w-100 img-fluid" 
@@ -30,8 +30,7 @@
     <div class="col-md-6 text-center">
       <img src="https://cdn.jsdelivr.net/gh/publichomepage/my@main/assets/designer.png" 
            alt="Sample Image" 
-           class="img-fluid rounded"
-           style="max-width: 300px;">
+           class="img-fluid rounded">
     </div>
     <div class="col-md-6 text-center">
       <h4>One Page for all</h4>
@@ -49,8 +48,7 @@
   <div class="col text-center">
     <img src="https://cdn.jsdelivr.net/gh/publichomepage/my@main/assets/happy-news.png" 
          alt="Sample Image" 
-         class="img-fluid" 
-         style="max-width: 300px;">
+         class="img-fluid">
   </div>
 </div>
 </div>
