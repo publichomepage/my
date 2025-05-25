@@ -1,45 +1,56 @@
-<!-- Projects-->
-<section class="projects-section bg-light" id="projects">
-    <div class="container px-4 px-lg-5">
-        <!-- Featured Project Row-->
-        <div class="row gx-0 mb-4 mb-lg-5 align-items-center">
-            <div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0" src="assets/img/bg-masthead.jpg" alt="..." /></div>
-            <div class="col-xl-4 col-lg-5">
-                <div class="featured-text text-center text-lg-left">
-                    <h4>Who is it designed for ?</h4>
-                    <p class="text-black-50 mb-0">Whether you're a professional, celebrity, entrepreneur, or social enthusiast, a public homepage is your gateway to the world. From personal passions to professional ventures, people are building and showcasing their portfolios with a public homepage!</p>
-                </div>
-            </div>
+<div class="container my-5">
+<!-- Row 1 -->
+  <!-- Row 1 with Image Slideshow -->
+<div class="row align-items-center mb-4">
+  <div class="col-md-6 text-center text-md-start">
+    <h4 class="text-success">Who’s this for?</h4>
+    <p><b class="text-warning">Professionals. Creators. Dreamers.</b><br>
+    Your digital gateway — for work, passion, or everything in between.</p>
+  </div>
+  <div class="col-md-6 text-center">
+    <div id="simpleCarousel" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-inner rounded" style="max-width: 300px; margin: 0 auto;">
+        <div class="carousel-item active">
+          <img src="https://cdn.jsdelivr.net/gh/publichomepage/my@main/assets/influencer_1.png" 
+               class="d-block w-100 img-fluid" 
+               alt="Influencer Image 1">
         </div>
-        <!-- Project One Row-->
-        <div class="row gx-0 mb-5 mb-lg-0 justify-content-center">
-            <div class="col-lg-6"><img class="img-fluid" src="assets/img/demo-image-01.jpg" alt="..." /></div>
-            <div class="col-lg-6">
-                <div class="bg-black text-center h-100 project">
-                    <div class="d-flex h-100">
-                        <div class="project-text w-100 my-auto text-center text-lg-left">
-                            <h4 class="text-white">One Page for all</h4>
-                            <p class="mb-0 text-white-50">Your connections, videos, articles, any crafts of cart, all in here that users want to see.</p>
-                            <hr class="d-none d-lg-block mb-0 ms-0" />
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <div class="carousel-item">
+          <img src="https://cdn.jsdelivr.net/gh/publichomepage/my@main/assets/video-influencer_2.png" 
+               class="d-block w-100 img-fluid" 
+               alt="Influencer Image 2">
         </div>
-        <!-- Project Two Row-->
-        <div class="row gx-0 justify-content-center">
-            <div class="col-lg-6"><img class="img-fluid" src="assets/img/demo-image-02.jpg" alt="..." /></div>
-            <div class="col-lg-6 order-lg-first">
-                <div class="bg-black text-center h-100 project">
-                    <div class="d-flex h-100">
-                        <div class="project-text w-100 my-auto text-center text-lg-right">
-                            <h4 class="text-white">Effortless</h4>
-                            <p class="mb-0 text-white-50">It's simple to build, integrate and manage ! unlike any other expensive, complex and time consuming platforms!</p>
-                            <hr class="d-none d-lg-block mb-0 me-0" />
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+      </div>
     </div>
-</section>
+  </div>
+</div>
+
+  <!-- Row 2 -->
+  <div class="row align-items-center mb-4">
+    <div class="col-md-6 text-center">
+      <img src="https://cdn.jsdelivr.net/gh/publichomepage/my@main/assets/designer.png" 
+           alt="Sample Image" 
+           class="img-fluid rounded"
+           style="max-width: 300px;">
+    </div>
+    <div class="col-md-6 text-center">
+      <h4>One Page for all</h4>
+      <p>Your articles, videos and services that you cherish with your tribe! Create and share everything from here.</p>
+    </div>
+  </div>
+
+<!-- Row 3 -->
+<div class="row align-items-center">
+  <div class="col text-center">
+    <h4>Just Dabbling to Expert - Effortless</h4>
+    <p>It's simple to build! Easy to maintain and Effortless to start!</p>
+    <a href="/dabble" class="btn btn-warning px-4">Dabble</a>
+  </div>
+  <div class="col text-center">
+    <img src="https://cdn.jsdelivr.net/gh/publichomepage/my@main/assets/happy-news.png" 
+         alt="Sample Image" 
+         class="img-fluid" 
+         style="max-width: 300px;">
+  </div>
+</div>
+</div>
