@@ -22,7 +22,7 @@
 <div class="row align-items-center mb-4">
   <div class="col-md-6 text-center text-md-start">
     <h4 class="text-success">Who’s this for?</h4>
-    <p><b class="text-warning">Professionals. Creators. Solopreneurs</b><br>
+    <p><b class="text-warning">Professionals. Creators. Solopreneurs.</b><br>
     Your digital gateway — for work, passion, or your venture. <i>Build your unique homepage, <b>from ideas to online—no hosting, no delays!</b></i></p>
   </div>
   <div class="col-md-6 text-center">
