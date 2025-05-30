@@ -70,10 +70,10 @@
 
 <!-- Row 4 -->
 <div class="row align-items-center">
-    <div class="col text-center">
-         <img src="https://cdn.jsdelivr.net/gh/publichomepage/my@main/assets/ai-agent.png" alt="Sample Image" class="img-fluid rounded">
+    <div class="col my-3 text-center">
+<h4 class="my-2">Every homepage created is AI-Optimized and RAG-Ready&nbsp;🎉</h4>
+         <img src="https://cdn.jsdelivr.net/gh/publichomepage/my@main/assets/ai-agent.png" alt="Sample Image" class="img-fluid rounded" style="max-width: 70%; margin: 0 auto;">
                 </div>
-<h5 class="text-center">Every public homepage created is AI-Optimized and RAG-Ready 🎉</h5>
 <a href="https://chromewebstore.google.com/detail/deeppage/ohdjgphdgjdfmiamnjiooeifjanphhcg?hl=en" target="_blank" class="text-center">Take a DeepPeek</a>
 </div>
 </div>
