@@ -59,8 +59,10 @@
 <!-- Row 3 -->
 <div class="row align-items-center">
   <div class="col text-center">
-    <h4 class="text-success">Effortless</h4>
-    <p>It's simple to build, Easy to maintain and Effortless to start! With a little dabbling, there are millions of possibilities from Solopreneurship to Entrepreneurship&nbsp;!</p>
+    <h4 class="text-success">Where Ideas get Wings</h4>
+      <p class="mt-3">
+                        Build like a dreamer. Maintain like a gardener. Launch like the wind. With just <span class="text-warning fw-bold">a little dabblings.</span><br>Start Solopreneurship&nbsp;!
+      </p>
     <a href="/dabble" class="btn btn-warning px-4">Dabble</a>
   </div>
   <div class="col text-center">
@@ -68,12 +70,12 @@
   </div>
 </div>
 
-<!-- Row 4 -->
-<div class="row align-items-center">
-    <div class="col my-3 text-center">
-<h4 class="my-2">Every homepage created is AI-Optimized and RAG-Ready&nbsp;🎉</h4>
-         <img src="https://cdn.jsdelivr.net/gh/publichomepage/my@main/assets/ai-agent.png" alt="Sample Image" class="img-fluid rounded" style="max-width: 70%; margin: 0 auto;">
-                </div>
-<a href="https://chromewebstore.google.com/detail/deeppage/ohdjgphdgjdfmiamnjiooeifjanphhcg?hl=en" target="_blank" class="text-center">Take a DeepPeek</a>
-</div>
+  <!-- Row 4 -->
+  <div class="row align-items-center">
+      <div class="col my-3 text-center">
+  <h4 class="my-2">Every homepage created is AI-Optimized and RAG-Ready&nbsp;🎉</h4>
+           <img src="https://cdn.jsdelivr.net/gh/publichomepage/my@main/assets/ai-agent.png" alt="Sample Image" class="img-fluid rounded" style="max-width: 70%; margin: 0 auto;">
+                  </div>
+  <a href="https://chromewebstore.google.com/detail/deeppage/ohdjgphdgjdfmiamnjiooeifjanphhcg?hl=en" target="_blank" class="text-center">Take a DeepPeek</a>
+  </div>
 </div>
