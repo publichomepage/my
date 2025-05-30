@@ -59,9 +59,9 @@
 <!-- Row 3 -->
 <div class="row align-items-center">
   <div class="col text-center">
-    <h4 class="text-success">Where Ideas get Wings</h4>
+    <h4 class="text-success">Where Ideas get Wings.</h4>
       <p class="mt-3">
-                        Build like a dreamer. Maintain like a gardener. Launch like the wind. With just <span class="text-warning fw-bold">a little dabblings.</span><br>Start your Solopreneurship&nbsp;!
+                        Build like a dreamer. Maintain like a gardener. Launch like the wind, With just <span class="text-warning fw-bold">a little dabblings.</span><br>Start your Solopreneurship 🚀
       </p>
     <a href="/dabble" class="btn btn-warning px-4">Dabble</a>
   </div>
