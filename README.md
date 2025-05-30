@@ -68,3 +68,13 @@
   </div>
 </div>
 </div>
+
+<div class="container px-lg-5 d-flex h-100 align-items-center justify-content-center">
+            <div class="row align-items-center mb-4 g-3">
+                <div class="col text-center">
+                    <img src="https://cdn.jsdelivr.net/gh/publichomepage/my@main/assets/ai-agent.png" alt="Sample Image" class="img-fluid rounded">
+                </div>
+<h4 class="text-center">Every public homepage created is AI-Optimized and RAG-Ready 🎉</h4>
+<a href="https://chromewebstore.google.com/detail/deeppage/ohdjgphdgjdfmiamnjiooeifjanphhcg?hl=en" target="_blank" class="text-center">Take a DeepPeek</a>
+</div>
+</div>
