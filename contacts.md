@@ -2,7 +2,6 @@
 - [What's new ?](https://publichome.page/roadmap)
 - [Creators / Bloggers / Engineers](https://interviewdose.com/contacts)
 - [📞 LetsTalk](tel:+17816275377)
-- [Donate](https://buymeacoffee.com/publichomepage)
 - [DabMeUp](self:subscribe,whatsapp:subscribe)
 > Subscribe to receive latest features updates, improvements and occasional personal messages—straight from me to you. **Dab&nbsp;Me&nbsp;Up** ✋🤜 to stay informed, inspired and support my work!
 
