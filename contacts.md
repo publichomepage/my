@@ -6,6 +6,8 @@
 - [DabMeUp](self:subscribe,whatsapp:subscribe)
 > Subscribe to receive latest features updates, improvements and occasional personal messages—straight from me to you. **Dab&nbsp;Me&nbsp;Up** ✋🤜 to stay informed, inspired and support my work!
 
+[DabMeUp2]:# (self:subscribe,whatsapp:subscribe)
+
 **Need help in building your publichome page ?**
 
   <a href="https://topmate.io/ersandeep/644263" target="_blank">
