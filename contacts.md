@@ -13,3 +13,5 @@
   </a>
   
   **Book your 1:1**
+  
+  <a href="https://buymeacoffee.com/publichomepage" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: px !important;width: 217px !important;"></a>
